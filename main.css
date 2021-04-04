@@ -1,0 +1,70 @@
+.heights{
+        
+    height: 500px;
+}
+
+.upHeight{
+    height: 300px; 
+}
+
+.spacing{
+
+line-height: 100%;
+}
+
+.logo{
+
+    text-align: center !important;
+}
+
+@media only screen and (max-width: 650px) {
+    .example {
+        font-size: 80px !important;
+        margin-left: 0 !important;
+    }
+
+    .hidehr{
+
+        visibility: hidden;
+    }
+
+    .frontEndText{
+
+        font-size: 40px !important;
+        
+    }
+}
+
+@media only screen and (max-width: 500px){
+
+
+    .youtube{
+
+
+        width:256; 
+        height:144;
+    }
+
+
+
+}
+
+
+
+
+.nav-margin1{
+
+    margin-left: 20% !important;
+}
+
+ body{
+
+    background-color: rgb(237, 238, 243);
+ }
+
+ .card{
+
+    margin-top: 10% !important;
+
+
+ }
